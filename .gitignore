@@ -1,0 +1,6 @@
+data/
+best_results/
+.ipynb_checkpoints
+images/
+MNIST/
+models/
